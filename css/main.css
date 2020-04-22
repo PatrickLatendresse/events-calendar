@@ -1,0 +1,40 @@
+html {
+  font-family: Merriweather, serif;
+  color: #333;
+}
+
+th, td {
+  border: 1px solid #ccc;
+}
+
+.date {
+  height: 8.5em;
+}
+
+.list-group {
+  border-radius: 8px;
+}
+
+.grey {
+  color: #666;
+  border: 1px solid #666;
+  background-color: #f2f2f2;
+}
+
+.red {
+  color: #991919;
+  border: 1px solid #b92828;
+  background-color: #f2bcbc;
+}
+
+.green {
+  color: #6b7e54;
+  border: 1px solid #51603f;
+  background-color: #d1e0bf;
+}
+
+.blue {
+  color: #38448e;
+  border: 1px solid #1d38da;
+  background-color: #d2d6f0;
+}
